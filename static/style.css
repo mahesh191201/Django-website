@@ -1,0 +1,69 @@
+
+  .Heading{
+  
+    font-style: italic;
+    font-weight: bold;
+  
+  
+  }
+  
+  /* .text-center{
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 400;
+  
+  
+  } */
+  
+   .footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+   
+  
+   } 
+  
+  .para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  
+  .head2{
+  
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+  
+  }
+  
+  .mt-5 {
+    margin-top: 5rem !important;
+  }
+  
+  .text-center{
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+
+  }
+
+  
+
+  
+  .form-group{
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  
+  }
+  
+  .icon1{
+  
+  padding: 0px 0px 0px 0px;
+  
+  }
+
+  
